@@ -75,7 +75,7 @@ The list below is just a handful of the websites that are built using the Congo 
 | [Rwhither's Blog](https://blog.sky123.top)                       | Personal site and blog            |
 | [wendyliga.com](https://wendyliga.com)                           | Personal Site and Blog            |
 | [bitingbytes.de](https://bitingbytes.de)                         | Personal Site and Blog            |
-| [janela.digital](https://janela.digital/)                        | Personal Blog (in Portuguese)     |
+| [janela.digital](https://janela.tec.br/)                         | Personal Blog (in Portuguese)     |
 | [leavex.eu](https://leavex.eu)                                   | Leave X Campaign Site             |
 | [cmp1315.com](https://cmp1315.com/)                              | Site for medical center           |
 | [Yan Dong](https://www.yandong.xyz/en/)                          | Personal Site (Chinese/English)   |
